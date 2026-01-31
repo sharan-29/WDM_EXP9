@@ -27,4 +27,14 @@ for this purpose.
 
 ### Output:
 
+<img width="932" height="712" alt="Screenshot 2026-01-30 142645" src="https://github.com/user-attachments/assets/6e0d2a39-6695-45e1-8485-f60671a3f14a" />
+
+<img width="931" height="698" alt="Screenshot 2026-01-30 142654" src="https://github.com/user-attachments/assets/948c9f07-3115-408b-b3c0-0cc26d08f433" />
+
+
+<img width="1174" height="729" alt="Screenshot 2026-01-30 142706" src="https://github.com/user-attachments/assets/0e30bd0a-a573-4198-b918-9b5e1602c79f" />
+
+
 ### Result:
+
+hence,implemented preprocessing technique on Twitter Data using Rapidminer.
